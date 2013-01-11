@@ -56,7 +56,7 @@ public interface Toaist {
   /**
    * Set which power is active
    */
-  void setActivePower();
+  void setActivePower(Power power);
 
   /**
    * Is the Taoist's power blocked?
