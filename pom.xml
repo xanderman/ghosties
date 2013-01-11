@@ -34,8 +34,8 @@
     <url>https://github.com/xanderman/ghosties/issues</url>
   </issueManagement>
   <scm>
-    <connection>https://github.com/xanderman/ghosties.git</connection>
-    <developerConnection>https://github.com/xanderman/ghosties.git</developerConnection>
+    <connection>scm:git:https://github.com/xanderman/ghosties.git</connection>
+    <developerConnection>scm:git:https://github.com/xanderman/ghosties.git</developerConnection>
     <url>https://github.com/xanderman/ghosties</url>
   </scm>
 
