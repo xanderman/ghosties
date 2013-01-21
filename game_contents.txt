@@ -1,0 +1,184 @@
+A list of the stuff in the game, so I can replicate it in code.
+
+Yellow Toaist Powers:
+  Enfeeblement Mantra: place/move the enfeeblement mantra token
+  Bottomless Pockets: one free tao token every turn
+
+Red Toaist Powers:
+  Dance of the Twin Winds: Move another player
+  Dance of the Peaks: Fly
+
+Blue Toaist Powers:
+  Second Wind: attack twice or use villager twice
+  Heavenly Gust: attack and use villager
+
+Green Taoist:
+  Strength of the Mountain: 4th tao die, no curse
+  Gods' Favourite: reroll dice
+
+Villagers:
+  Cemetery: Revive fallen taoist with 2 qi, roll curse die
+  Taoist Alter: Unhaunt a tile, draw a ghost
+  Herbalist's Shop: Roll 2 tao dice, take tokens
+  Sorcerer's Hut: Lose one qi, destroy on ghost
+  Night Watchman's Beat: Move all haunters on one board back onto card
+  Buddhist Temple: Take a Buddha
+  Circle of Prayer: Place tao token to weaken ghosts
+  Pavilion of the Heavenly Winds: Move a ghost, move a taoist
+  Tea House: +1 qi, +1 tao, draw a ghost
+
+"Colored" Ghosts:
+  Resistance 1
+  on enter: Draw Ghost, block power
+  Yellow: Coffin Breakers
+  Red: Sharp-Nailed Mistresses
+  Blue: Perfidious Nymph
+  Green: Fallen Monks
+
+  Resistance 1
+  on enter: Draw Ghost
+  Yellow: Coffin Breakers
+  Red: Sharp-Nailed Mistresses
+  Blue: Perfidious Nymph
+  Green: Fallen Monk
+
+  Resistance 1
+  on Yin: resistant to tao dice
+  Yellow: Walking Corpse
+  Red: Reaper
+  Blue: Hound of Depth
+  Green: Fungus Thing
+
+  Resistance 1
+  on Yin: haunter
+  Yellow: Ghoul
+  Red: Skinner
+  Blue: Drowned Maiden
+  Green: Creeping One
+
+  Resistance 2
+  on Yin: haunter
+  Yellow: Restless Dead
+  Red: Bleeding eyes
+  Blue: Sticky feet
+  Green: Restless Spirit
+
+  Resistance 2 (x2)
+  on exit: curse
+  Yellow: Zombie
+  Red: Blood drinker
+  Blue: Abysmal
+  Green: Rotten Soul
+
+  Resistance 3 (x2)
+  on Yin: haunter
+  Yellow: Hopping Vampire
+  Red: Scarlet Evildoer
+  Blue: Ooze Devil
+  Green: Wicked One
+
+  Resistance 4
+  on Yin: curse (Tormentor)
+  on exit: +1 qi or yinyang
+  Yellow: Lich
+  Red: Raging One
+  Blue: Fury of depth
+  Green: Great Putrid
+
+  Resistance 4
+  on exit: +2 tao
+  Yellow: Yellow Plague
+  Red: Flesh Devourer
+  Blue: Liquid Horror
+  Green: Green Abomination
+
+Black Ghosts:
+  Resistance 1
+    Severed Heads (x2)
+    on enter: -1 tao die, draw ghost
+    on exit: +1 tao token
+
+    Repellent Beauty
+    on enter: -1 tao die
+    on Yin: resistant to tao dice
+    on exit: +1 tao token
+
+    Gloomy Minion
+    on enter: fast haunter
+    on Yin: haunter
+    on exit: +1 tao token
+
+  Resistance 2
+    Black Widow (x2)
+    on enter: cancel tao tokens
+    on exit: curse, +1 qi or yinyang
+
+    Grave Walker
+    on enter: -1 qi
+    on Yin: haunter
+    on exit: +1 qi or yinyang
+
+  Resistance 3
+    Dark Wraith (x3)
+    on enter: fast haunter
+    on Yin: haunter
+    on exit: +1 qi or yinyang
+
+  Resistance 4
+    Soul Eater
+    on enter: everyone loses a tao
+    on Yin: curse (Tormenter)
+    on exit: +1 qi or yinyang
+
+    Shapeless Evil
+    on enter: haunt tile
+    on exit: +1 qi or yinyang
+
+Wu Feng incarnations:
+  All:
+    on exit: qi + yinyang
+
+  Dark Mistress
+    resistance: 3 blue
+    on enter: lock tao
+
+  Uncatchable
+    resistance: 3 black
+    on enter: curse
+    must be buddha'd before exorcism
+
+  Howling Nightmare
+    resistance: 3 black
+    on enter: draw ghost
+    opposite space must be empty before exorcism
+
+  Bone Cracker
+    resistance: 4 red
+    on enter: everyone loses a tao
+    on Yin: everyone loses a tao
+
+  Creeping Horror
+    resistance: 4 green
+    on enter: -1 tao die
+
+  Deaths Army
+    resistance: 5 black
+    on Yin: curse
+    on exit: curse
+
+  Forgotten Ones
+    resistance: 3 black
+    on enter: lock all powers
+
+  Vampire Lord
+    resistance: 4 yellow
+    on Yin: haunter
+
+  Nameless
+    resistance: 1 black, 1 red, 1 green, 1 blue, 1 yellow
+    on enter: remove token from prayer circle
+    white tao dice innefective
+
+  Hope Killer
+    resistance: 2 red, 2 green, 2 blue, 2 yellow
+    on exit: curse
